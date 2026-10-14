@@ -52,11 +52,11 @@ Performed ping tests between the PC and server.
 
 ### Physical Rack and Cabling View
 
-![Physical Rack and Cabling View](images/rack-view.png)
+![Physical Rack and Cabling View](rack-view.png)
 
 ### Successful Ping Test
 
-![Ping Verification](images/ping-verification.png)
+![Ping Verification](ping-verification.png)
 
 ## Key Learnings
 
